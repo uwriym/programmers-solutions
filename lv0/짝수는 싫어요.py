@@ -1,4 +1,4 @@
-# https://school.programmers.co.kr/learn/courses/30/lessons/120817
+# https://school.programmers.co.kr/learn/courses/30/lessons/120813
 
 def solution(n):
     num_list = list(x for x in range(0, n + 1))
